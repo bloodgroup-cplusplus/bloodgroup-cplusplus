@@ -3,7 +3,6 @@
 ### visualize your source code (https://www.codesee.io/)
 ### apis you will like working with (https://dev.to/monicafidalgo/12-apis-that-you-as-a-developer-will-love-it-4ec6)
 
-### <a href="https://app.daily.dev/chadd"><img src="https://api.daily.dev/devcards/32186d6e05074119b502534ab765e070.png?r=v8j" width="400" alt="chad's Dev Card"/></a>
 
 <!--
 **bloodgroup-cplusplus/bloodgroup-cplusplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
