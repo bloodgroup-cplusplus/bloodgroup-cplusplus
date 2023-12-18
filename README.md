@@ -19,8 +19,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on machine learning and backend development
-- 🌱 I’m currently learning   react, go 
-- 👯 I’m looking to collaborate on  web projects
-- 🤔 I’m looking for help with machine learning 
+- 🔭  currently working on machine learning and backend development
+- 🌱  learning   react, go 
+- 👯  looking to collaborate on projects 
   
