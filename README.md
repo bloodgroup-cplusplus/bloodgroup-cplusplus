@@ -17,9 +17,9 @@
 
 **bloodgroup-cplusplus/bloodgroup-cplusplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭  currently working on machine learning and backend development
-- 🌱  learning   react, go 
+- 🌱  learning  go 
 - 👯  looking to collaborate on projects 
   
