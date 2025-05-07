@@ -19,7 +19,7 @@
 
 
 
-- 🔭  currently working on machine learning and backend development
-- 🌱  learning  go 
+- 🔭  currently working on machine learning and backend development and devops
+- 🌱  learning  go and rust
 - 👯  looking to collaborate on projects 
   
